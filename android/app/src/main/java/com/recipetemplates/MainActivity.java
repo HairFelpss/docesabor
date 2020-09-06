@@ -1,4 +1,4 @@
-package com.NatalEmReceitas;
+package com.doceSabor;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "NatalEmReceitas";
+    return "doceSabor";
   }
 }

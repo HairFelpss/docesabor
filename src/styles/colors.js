@@ -7,9 +7,9 @@ export default {
   darker: '#333',
   black: '#000',
 
-  primary: '#f94b4a',
-  secondary: '#d80808',
-  tertiary: '#8b0504',
+  primary: '#1E3875',
+  secondary: '#3F4C73',
+  tertiary: '#172540',
   quaternary: '#f4f4f4',
 
   transparent: 'transparent',

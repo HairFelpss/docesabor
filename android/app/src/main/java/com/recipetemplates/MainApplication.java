@@ -1,4 +1,4 @@
-package com.NatalEmReceitas;
+package com.doceSabor;
 
 import android.app.Application;
 import android.content.Context;
